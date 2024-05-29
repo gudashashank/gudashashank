@@ -1,5 +1,6 @@
+![Image](https://github.com/gudashashank/gudashashank/blob/main/img/Modern%20Minimalist%20Creative%20Studio%20Name%20LinkedIn%20Article%20Cover%20Image.png?raw=true)
 <div align="center">
-  <img src="https://drive.google.com/file/d/1N1PrE03bJyLE46ZZEhP5UdZmOTq8tTjL/view?usp=sharing" alt="Banner" width="100%"/>
+ 
 
   <h1>Hello 👋, I'm Shashank Guda</h1>
   <p>
@@ -16,24 +17,28 @@
 ### 🙋‍♂️ About Me:
 - 🎓 Currently a Graduate Student at [Syracuse University](https://www.syracuse.edu/) 🍊
 - 💻 Interning at [Inferenz](https://inferenz.ai/) as a Jr. AI/ML Engineer
-- 🌱 I’m currently learning [LangChain, LLMs, Deep Learning]
+- 🌱 I’m currently learning LangChain, LLMs
 - 💼 Previously worked as a Consultant at [Tredence](https://www.tredence.com/)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/shashankguda/)
+- ✍️ My Blogs [Medium](https://medium.com/@shashankguda.gs)
 
 ---
 
 ### 🚀 Skills and Technologies:
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL"/>
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" title="Pandas"/>
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" title="NumPy"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI"/>
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" title="Tableau"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS"/>
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" title="Google Cloud"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" title="Python"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" title="SQL"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" title="Pandas"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" title="NumPy"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git"/>
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" title="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" title="Tableau"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" title="AWS"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" title="Microsoft Azure"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" title="Postgres"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" title="Microsoft SQL"/>
+  <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" title="MS Access"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" title="Supabase"/>
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" title="Anaconda"/>
   <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" alt="Apache Spark" title="Apache Spark"/>
@@ -50,6 +55,8 @@
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" title="Jupyter"/>
   <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" title="RStudio"/>
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" title="R"/>
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" title="Weights"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" title="Databricks"/>
 </div>
 
 ---
@@ -60,10 +67,18 @@
 
 ---
 
-### ☕ Show Your Support:
+### 📈 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashankguda&show_icons=true&theme=radical" alt="Shashank's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankguda&theme=radical" alt="Shashank's GitHub Streak" width="48%" />
+</div>
+
+
+
+## ☕ Show your support
 <div align="center">
   <a href="https://buymeacoffee.com/shashankguda" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 220px !important;" />
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" />
   </a>
 </div>
 
