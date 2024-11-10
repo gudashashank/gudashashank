@@ -63,7 +63,8 @@
 
 ### 🌟 Featured Projects:
 - [Project 1](https://github.com/gudashashank/EqualEyes): EqualEyes aims to advance image captioning technology by combining recent advances in image recognition and language modeling to generate rich and detailed descriptions beyond simple object identification.
-- [Project 2](https://github.com/gudashashank/Austin_Animal_Data_Analysis): This project involves a comprehensive analysis of data from the Austin Animal Center to understand trends in animal intakes, outcomes, and stray locations. By merging and analyzing multiple structured datasets, project aims to identify factors contributing to stray animal cases and develop strategies to address the issue. The analysis includes exploratory data analysis, preprocessing, and actionable insights to improve adoption rates and animal welfare.
+- [Project 2](https://github.com/gudashashank/crop-scan): CropScan is a simple mobile tool that helps farmers and gardeners instantly check if their plants are healthy. Just snap a picture of any plant leaf, and our AI technology quickly tells you if it's healthy or sick. By catching plant diseases early, CropScan helps farmers save their crops without needing expensive expert advice.
+- [Project 3](https://github.com/gudashashank/Austin_Animal_Data_Analysis): This project involves a comprehensive analysis of data from the Austin Animal Center to understand trends in animal intakes, outcomes, and stray locations. By merging and analyzing multiple structured datasets, project aims to identify factors contributing to stray animal cases and develop strategies to address the issue. The analysis includes exploratory data analysis, preprocessing, and actionable insights to improve adoption rates and animal welfare.
 
 ---
 
