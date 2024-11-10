@@ -67,13 +67,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankguda&theme=radical" alt="Shashank's GitHub Streak" width="48%" />
-</div>
-
-
-
 ## ☕ Show your support
 <div align="center">
   <a href="https://buymeacoffee.com/shashankguda" target="_blank">
