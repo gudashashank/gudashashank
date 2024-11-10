@@ -16,8 +16,8 @@
 
 ### 🙋‍♂️ About Me:
 - 🎓 Currently a Graduate Student at [Syracuse University](https://www.syracuse.edu/) 🍊
-- 💻 Interning at [Inferenz](https://inferenz.ai/) as a Jr. AI/ML Engineer
 - 🌱 I’m currently learning LangChain, LLMs
+- 💻 Interned at [Inferenz](https://inferenz.ai/) as a Jr. AI/ML Engineer
 - 💼 Previously worked as a Consultant at [Tredence](https://www.tredence.com/)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/shashankguda/)
 - ✍️ My Blogs [Medium](https://medium.com/@shashankguda.gs)
