@@ -1,4 +1,4 @@
-![Image](https://github.com/gudashashank/gudashashank/blob/main/img/Modern%20Minimalist%20Creative%20Studio%20Name%20LinkedIn%20Article%20Cover%20Image.png?raw=true)
+![Image](img/shashank_guda_header.jpeg)
 <div align="center">
  
 
