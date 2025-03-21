@@ -1,4 +1,4 @@
-![Image](img/shashank_guda_header.jpeg)
+![Image](img/img/Neutral Creative Paper Texture LinkedIn Article Cover Image.png)
 <div align="center">
  
 
