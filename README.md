@@ -1,4 +1,4 @@
-![Shashank_Guda](img/Neutral%20Creative%20Paper%20Texture%20LinkedIn%20Article%20Cover%20Image.png)
+![Shashank_Guda](img/sg_canva.png)
 
 <div align="center">
  
