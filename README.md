@@ -1,4 +1,4 @@
-![Image](img/img/Neutral Creative Paper Texture LinkedIn Article Cover Image.png)
+![Image](img/Neutral Creative Paper Texture LinkedIn Article Cover Image.png)
 <div align="center">
  
 
