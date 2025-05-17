@@ -1,4 +1,4 @@
-![Shashank_Guda](img/sg_canva.png)
+
 
 <div align="center">
  
