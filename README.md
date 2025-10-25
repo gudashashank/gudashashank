@@ -16,8 +16,8 @@
 ---
 
 ### 🙋‍♂️ About Me:
-- 🎓 Currently a Graduate Student at [Syracuse University](https://www.syracuse.edu/) 🍊
-- 🌱 I’m currently learning LangChain, LLMs
+- 🛠️ Working as a Senior Consultant (DAE-FSO) at [EY](https://www.ey.com/en_us)
+- 🎓 Graduated From [Syracuse University](https://www.syracuse.edu/) 🍊
 - 💻 Interned at [Inferenz](https://inferenz.ai/) as a Jr. AI/ML Engineer
 - 💼 Previously worked as an Analytics Consultant at [Tredence](https://www.tredence.com/)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/shashankguda/)
